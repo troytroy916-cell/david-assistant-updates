@@ -8,3 +8,5 @@
 [Троя 15.0 — Публикации, календарь и задачи звонка](https://github.com/troytroy916-cell/david-assistant-updates/releases/tag/v15.0)
 
 [Троя 15.1 — Очередь чеков и проверка публикаций](https://github.com/troytroy916-cell/david-assistant-updates/releases/tag/v15.1)
+
+[Троя 15.2 — Рассылки, продолжение аудита и проверка оплат](https://github.com/troytroy916-cell/david-assistant-updates/releases/tag/v15.2)
