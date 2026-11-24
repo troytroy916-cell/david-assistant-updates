@@ -10,3 +10,5 @@
 [Троя 15.1 — Очередь чеков и проверка публикаций](https://github.com/troytroy916-cell/david-assistant-updates/releases/tag/v15.1)
 
 [Троя 15.2 — Рассылки, продолжение аудита и проверка оплат](https://github.com/troytroy916-cell/david-assistant-updates/releases/tag/v15.2)
+
+[Троя 15.4 — Аудиты, звонки и сопровождение клиентов](https://github.com/troytroy916-cell/david-assistant-updates/releases/tag/v15.4)
