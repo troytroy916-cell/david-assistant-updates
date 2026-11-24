@@ -18,3 +18,5 @@
 [Троя 15.6 — КП для лидов ВПО и ручной аудит](https://github.com/troytroy916-cell/david-assistant-updates/releases/tag/v15.6)
 
 [Троя 15.7 — КП по ссылке и просмотр PDF](https://github.com/troytroy916-cell/david-assistant-updates/releases/tag/v15.7)
+
+[Троя 15.8 — Канал MAX и настройки рабочего дня](https://github.com/troytroy916-cell/david-assistant-updates/releases/tag/v15.8)
