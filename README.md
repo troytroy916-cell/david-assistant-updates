@@ -14,3 +14,5 @@
 [Троя 15.4 — Аудиты, звонки и сопровождение клиентов](https://github.com/troytroy916-cell/david-assistant-updates/releases/tag/v15.4)
 
 [Троя 15.5 — Профессия и выбор города для аудита](https://github.com/troytroy916-cell/david-assistant-updates/releases/tag/v15.5)
+
+[Троя 15.6 — КП для лидов ВПО и ручной аудит](https://github.com/troytroy916-cell/david-assistant-updates/releases/tag/v15.6)
