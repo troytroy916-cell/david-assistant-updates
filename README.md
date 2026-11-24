@@ -12,3 +12,5 @@
 [Троя 15.2 — Рассылки, продолжение аудита и проверка оплат](https://github.com/troytroy916-cell/david-assistant-updates/releases/tag/v15.2)
 
 [Троя 15.4 — Аудиты, звонки и сопровождение клиентов](https://github.com/troytroy916-cell/david-assistant-updates/releases/tag/v15.4)
+
+[Троя 15.5 — Профессия и выбор города для аудита](https://github.com/troytroy916-cell/david-assistant-updates/releases/tag/v15.5)
