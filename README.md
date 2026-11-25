@@ -26,3 +26,5 @@
 [Троя 16.0 — Очередь ВПО: набор и обработка](https://github.com/troytroy916-cell/david-assistant-updates/releases/tag/v16.0)
 
 [Троя 16.2 — Подборка резюме на седьмой день](https://github.com/troytroy916-cell/david-assistant-updates/releases/tag/v16.2)
+
+[Троя 16.3 — Новое сообщение с КП, WhatsApp, звонки и пауза](https://github.com/troytroy916-cell/david-assistant-updates/releases/tag/v16.3)
