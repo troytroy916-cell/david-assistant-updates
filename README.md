@@ -24,3 +24,5 @@
 [Троя 15.9 — Карточки лидов и результаты отправки КП](https://github.com/troytroy916-cell/david-assistant-updates/releases/tag/v15.9)
 
 [Троя 16.0 — Очередь ВПО: набор и обработка](https://github.com/troytroy916-cell/david-assistant-updates/releases/tag/v16.0)
+
+[Троя 16.1 — Подборка резюме на седьмой день](https://github.com/troytroy916-cell/david-assistant-updates/releases/tag/v16.1)
