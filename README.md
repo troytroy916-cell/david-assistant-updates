@@ -28,3 +28,5 @@
 [Троя 16.2 — Подборка резюме на седьмой день](https://github.com/troytroy916-cell/david-assistant-updates/releases/tag/v16.2)
 
 [Троя 16.3 — Новое сообщение с КП, WhatsApp, звонки и пауза](https://github.com/troytroy916-cell/david-assistant-updates/releases/tag/v16.3)
+
+[Троя 16.4 — Календарь размещений, интерфейс и отправка КП](https://github.com/troytroy916-cell/david-assistant-updates/releases/tag/v16.4)
