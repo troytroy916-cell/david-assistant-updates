@@ -32,3 +32,5 @@
 [Троя 16.4 — Календарь размещений, интерфейс и отправка КП](https://github.com/troytroy916-cell/david-assistant-updates/releases/tag/v16.4)
 
 [Троя 16.5 — WhatsApp, шаблоны и календарь](https://github.com/troytroy916-cell/david-assistant-updates/releases/tag/v16.5)
+
+[Троя 16.6 — Продолжение очереди после перезапуска](https://github.com/troytroy916-cell/david-assistant-updates/releases/tag/v16.6)
